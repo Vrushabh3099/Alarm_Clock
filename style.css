@@ -29,7 +29,7 @@
   {
     
     max-width: 180px;
-    margin-left: 100px;
+    margin-left: 85px;
     
   }
   .wrapper h1
@@ -37,7 +37,7 @@
     font-size: 35px;
     font-weight: 400;
     justify-content: space-between;
-    margin-left: 110px;
+    margin-left: 120px;
   }
   .wrapper .content.disable
   {
